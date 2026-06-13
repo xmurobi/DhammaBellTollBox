@@ -1,0 +1,426 @@
+{
+    "version": "1.0.0",
+    "description": "Vipassana Meditation Centers Non-Course Schedule",
+    "classes": [
+        {
+            "id": "non_course",
+            "name": "Non Course Days",
+            "schedule": [
+                {
+                    "time": "05:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "06:31:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "07:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "11:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "13:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "17:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "17:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                }
+            ]
+        },
+        {
+            "id": "non_course_beijing_center",
+            "name": "Beijing YongQing Center",
+            "schedule": [
+                {
+                    "time": "05:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "06:30:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "07:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8,
+                    "for": "Breakfast"
+                },
+                {
+                    "time": "11:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4,
+                    "for": "Lunch"
+                },
+                {
+                    "time": "14:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "17:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4,
+                    "for": "Tea Time"
+                },
+                {
+                    "time": "18:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "21:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                }
+            ]
+        },
+        {
+            "id": "non_course_dhammame_center",
+            "name": "Zhengzhou DhammaMe Center",
+            "schedule": [
+                {
+                    "time": "05:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "06:30:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "07:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "11:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "14:20:00", 
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "16:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "18:20:00",
+                    "days": [
+                        0   
+                    ],
+                    "toll": 8
+                }
+            ]
+        },
+        {
+            "id": "non_course_dhammabell_center",
+            "name": "Non Course Dhammabell Center",
+            "schedule": [
+                {
+                    "time": "05:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "06:31:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "07:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "11:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "13:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "17:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "18:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                }
+            ]
+        },
+        {
+            "id": "non_course_qingdao_center",
+            "name": "Qingdao Center",
+            "schedule": [
+                {
+                    "time": "05:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "06:30:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "07:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "11:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "13:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "17:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "18:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                }
+            ]
+        },
+        {
+            "id": "non_course_wuhuamountain_center",
+            "name": "五华山中心",
+            "schedule": [
+                {
+                    "time": "05:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "06:30:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "07:50:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "11:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "14:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "17:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "18:20:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                }
+            ]
+
+        },
+        {
+            "id": "non_course_munisukhi",
+            "name": "Special Edition for Munisukhi",
+            "schedule": [
+                {
+                    "time": "04:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "06:30:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4,
+                    "for": "Breakfast"
+                },
+                {
+                    "time": "08:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "10:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "11:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4,
+                    "for": "Lunch"
+                },
+                {
+                    "time": "13:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "14:30:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                },
+                {
+                    "time": "17:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4,
+                    "for": "Tea Time"
+                },
+                {
+                    "time": "18:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 8
+                },
+                {
+                    "time": "21:00:00",
+                    "days": [
+                        0
+                    ],
+                    "toll": 4
+                }
+            ]
+        }
+    ]
+}
